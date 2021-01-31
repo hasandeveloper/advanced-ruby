@@ -1,3 +1,5 @@
+# Method overloading ruby  her is below link for brief
+# https://www.geeksforgeeks.org/method-overloading-in-ruby/#:~:text=Method%20overloading%20is%20a%20feature,and%20different%20types%20of%20parameters.&text=Method%20overloading%20is%20an%20example%20of%20static%20binding%20or%20compile%20time%20polymorphism.
 class Hasan
     @@class_var = 10
     @instace_var = 5
